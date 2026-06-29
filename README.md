@@ -34,8 +34,8 @@ The tool follows a structured pipeline to transform raw logs into actionable int
 ### Setup
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/vkr-app.git](https://github.com/YOUR_GITHUB_USERNAME/vkr-app.git)
-    cd vkr-app
+    git clone [https://github.com/NethunVader/vkr-behavior-app.git](https://github.com/NethunVader/vkr-behavior-app.git)
+    cd vkr-behavior-app
     ```
 2.  Open the project in VS Code and **Rebuild in Container**.
 3.  Place your dataset (`.csv`) in `data/raw/`.
