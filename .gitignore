@@ -1,0 +1,20 @@
+# Ignore local data (Critical for privacy)
+data/raw/
+data/processed/
+*.csv
+*.log
+*.xlsx
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments (if used later)
+venv/
+env/
+.env
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
